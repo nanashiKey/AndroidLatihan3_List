@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AndroidLatihan3_List</string>
+    <string-array name="data_list">
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Malaysia</item>
+        <item>China</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Vietnam</item>
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Malaysia</item>
+        <item>China</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Vietnam</item>
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Malaysia</item>
+        <item>China</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Vietnam</item>
+        <item>Indonesia</item>
+        <item>India</item>
+        <item>Malaysia</item>
+        <item>China</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Vietnam</item>
+    </string-array>
+    <string name="indonesia">Republik Indonesia (RI) atau Negara Kesatuan Republik Indonesia (NKRI), atau lebih umum disebut Indonesia, adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, serta antara Samudra Pasifik dan Samudra Hindia. Indonesia adalah negara kepulauan terbesar di dunia yang terdiri dari 17.504 pulau. Nama alternatif yang biasa dipakai adalah Nusantara. Dengan populasi Hampir 270.054.853 jiwa pada tahun 2018, Indonesia adalah negara berpenduduk terbesar keempat di dunia dan negara yang berpenduduk Muslim terbesar di dunia, dengan lebih dari 230 juta jiwa.</string>
+    <string name="jepang">Jepang (bahasa Jepang: 日本 Nippon atau Nihon; nama resmi: 日本国 Tentang suara ini Nipponkoku atau Nihonkoku, nama harfiah: "Negara Jepang") adalah sebuah negara kepulauan di Asia Timur. Letaknya di ujung barat Samudra Pasifik, di sebelah timur Laut Jepang, dan bertetangga dengan Republik Rakyat Tiongkok, Korea, dan Rusia. Pulau-pulau paling utara berada di Laut Okhotsk, dan wilayah paling selatan berupa kelompok pulau-pulau kecil di Laut Tiongkok Timur, tepatnya di sebelah selatan Okinawa yang bertetangga dengan Taiwan.</string>
+    <string name="portugis">Portugal, kependekan dari Republik Portugal (bahasa Portugis: República Portuguesa) merupakan sebuah negara di Eropa bagian barat daya. Negara ini berbatasan dengan Spanyol di sebelah utara, dan timur. Di sebelah barat berbatasan dengan Samudra Atlantik. Selain itu, Portugal juga mempunyai daerah di Madeira, Azores dan Kepulauan Selvagens. Portugal mengklaim sebuah daerah kecil bernama Olivença yang dikuasai Spanyol sejak Kongres Wina. Nama lama atau latin dari negara ini adalah Lusitania. Kata Portugis sering dipakai untuk menyebutkan penduduk atau orang yang berasal dari Portugal. Kata ini juga sebutan untuk bahasa yang dipakai oleh bangsa ini. Negara-negara berbahasa Portugis sering disebut sebagai negara-negara Lusophone.</string>
+    <string name="prancis">Republik Prancis atau Prancis (bahasa Prancis: République française, pengucapan bahasa Prancis: [ʁepyblik fʁɑ̃sɛz]) adalah sebuah negara yang teritori metropolitannya terletak di Eropa Barat dan juga memiliki berbagai pulau dan teritori seberang laut yang terletak di benua lain.[4] Prancis Metropolitan memanjang dari Laut Mediterania hingga Selat Inggris dan Laut Utara, dan dari Rhine ke Samudera Atlantik. Orang Prancis sering menyebut Prancis Metropolitan sebagai "L'Hexagone" ("Heksagon") karena bentuk geometris teritorinya. Prancis adalah sebuah republik kesatuan semi-presidensial. Ideologi utamanya tercantum dalam Deklarasi Hak Asasi Manusia dan Warga Negara</string>
+    <string name="belanda">Belanda (bahasa Belanda: Nederland [ˈneːdərˌlɑnt]  ( dengarkan)) adalah sebuah negara peserta Kerajaan Belanda, yang terdiri dari dua belas provinsi di Eropa Barat Laut, dan tiga pulau di Karibia. Kata Belanda dalam bahasa Indonesia adalah pinjaman yang cacat dari kosakata Portugis: holanda, olanda, wolanda, bolanda, dan terakhir menjadi belanda. Belanda Eropa berbatasan dengan Laut Utara di utara, dan barat, Belgia di selatan, dan Jerman di timur, dan berbagi perbatasan bahari[11] dengan Belgia, Jerman, dan Britania Raya. Belanda menganut demokrasi parlementer yang disusun sebagai negara kesatuan. Ibu kotanya adalah Amsterdam, sedangkan pusat pemerintahan, dan kedudukan monarkinya berada di Den Haag.[12] Belanda sebagai keseluruhan seringkali disebut "Holland", meskipun Holland Utara, dan Selatan hanyalah dua dari dua belas provinsinya. Nama resmi saat ini adalah Kerajaan Belanda.</string>
+</resources>
